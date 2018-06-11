@@ -7,6 +7,8 @@ Thème WordPress pour Virgo Coop
 
 ## Mise en place
 
+- `git clone …`
+- `mkdir app data`
 - `docker-compose up`
   - installe WordPress tel que configuré selon le docker-compose.yml
   - monte les volumes décrits dans le docker-compose.yml, y compris le thème Virgo Coop
