@@ -12,6 +12,7 @@ Thème WordPress pour Virgo Coop
 - `docker-compose up`
   - installe WordPress tel que configuré selon le docker-compose.yml
   - monte les volumes décrits dans le docker-compose.yml, y compris le thème Virgo Coop
+- finaliser l'installation de WordPress sur http://localhost:8080/wp-admin/
 - activer le thème Virgo Coop dans le back-office WordPress
 - travailler sur le thème dans theme-virgo-coop/
   - `npm run [build|watch]`
